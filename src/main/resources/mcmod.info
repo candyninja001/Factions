@@ -1,0 +1,16 @@
+[
+{
+  "modid": "candyfactions",
+  "name": "CandyNinja's Factions",
+  "description": "CandyNinja's Factions.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CandyNinja_"],
+  "credits": "CandyNinja",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

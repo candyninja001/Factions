@@ -1,12 +1,8 @@
-*.class
+# Ignore everything:
+*
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Except for the themes directories:
 
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+!src/
+!LICENSE
+!README.md
